@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    padding: 50px;
+   box-shadow: 10px 5px 5px rgba(grey)
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+textarea {
+    width: 100%;
+    height: 120px;
+    margin-bottom: 10px;
+}
+.results {
+    margin-top: 10px;
+}
+
+#randomColorBtn {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
